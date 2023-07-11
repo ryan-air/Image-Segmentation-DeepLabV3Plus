@@ -7,9 +7,9 @@ Image segmentation is the process of dividing an image into multiple meaningful 
 ![](Deep-Lab-V3-Plus-Architecture.png)
 
 ## Training Parameters
-batch_size = 2
-learning_rate = 1e-4
-epochs = 20
+1) batch_size = 2
+2) learning_rate = 1e-4
+3) epochs = 10
 
 ## Training/Testing Results 
 | Accuracy | F1 | Jaccard | Recall | Precision |
