@@ -14,6 +14,4 @@ Image segmentation is the process of dividing an image into multiple meaningful 
 ## Training/Testing Results 
 | Accuracy | F1 | Jaccard | Recall | Precision |
 | :---: | :---: | :---: | :---: | :---: |
-| x | x | x | x | x |
-
-Credits to Nikhil Tomar
+| 0.9205 | 0.8787 | 0.8092 | 0.9312 | 0.8645 |
