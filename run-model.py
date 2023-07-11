@@ -54,3 +54,4 @@ for path in tqdm(data, total=len(data)):
         line = np.ones((h, 10, 3)) * 128
         cat_images = np.concatenate([image, line, segmented_image], axis=1)
         cv2.imwrite(f"folder_containing_all_images/masks/{name}.png", cat_images)
+# Credits Nikhil Tomar
